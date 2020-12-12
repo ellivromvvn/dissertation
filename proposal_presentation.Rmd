@@ -2,7 +2,9 @@
 title: "THE EFFECT OF USING RSTUDIO TO THE PERFORMANCE OF STUDENTS IN THEIR DATA MANAGEMENT CLASS UNDER FLEXIBLE LEARNING"
 subtitle: A Topic Proposal
 author: ORVILLE D. HOMBREBUENO
-output: slidy_presentation
+output:
+  slidy_presentation:
+    theme: journal
 bibliography: biblio.bib
 csl: apa.csl
 ---
@@ -135,6 +137,10 @@ Before conducting the experiment, the researcher will write a letter to the Pres
 Both descriptive and inferential statistics will be used in analyzing the data. Descriptive statistics will be computed for the profile variables. For the difference in the mean scores of the students when grouped according to using and not using RStudio, according to course, and according to topic, the test procedure will be F-test, and the test statistics will be $F_c=\frac{MSC}{MSE}\sim F_{[t-1,(t-1)(t-2)]}$ and the decision rule will be to reject $H_0$ if $F_c>F_{\alpha[t-1,(t-1)(t-2)]}$, otherwise fail to reject $H_0$.
 
 From the narratives and experiences of the students the researcher will come up with categories and themes that will serve as departure points to craft policies that will lead to curriculum, instruction and assessment development with respect to statistics education in NVSU specially with flexible learning.
+
+#
+
+Thank You!
 
 
 # References
