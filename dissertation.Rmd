@@ -12,7 +12,7 @@ csl: apa.csl
 ## The Problem and its Background
 
 
-The effects of using R [@R] and RStudio [@RStudio] on pre-service teachers' coding and data management and on instructional materials design will be investigated in this paper.
+effects of using R [@R] and RStudio [@RStudio] on pre-service teachers' coding and data management and on instructional materials design will be investigated in this paper.
 
 "R is a language and environment for statistical computing and graphics" [@R]. It is open source and can be used in a wide array of statistical (linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, etc.) and graphical techniques that can be extended with the use packages. Currently there are 16,732 packages available for various statistical computations and other tasks. According to the R Core Team; "one of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed". R has recently gained popularity in universities and research institutes and is currently 8th in the August, 2020 TIOBE's index for programming language popularity from being 20th last year mainly due to its being open source and its use in the COVID 19 research and analytics [@whitney20]. Using R is a practical application of coding and it is an essential tool for data management. It is also a great tool for instructional materials design in mathematics subjects.
 
