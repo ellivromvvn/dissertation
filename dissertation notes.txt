@@ -1,0 +1,53 @@
+transactional distance theory
+	structure
+	dialogue
+	autonomy
+Moore
+equity
+
+loaning system, rent to own.
+
+rationale, environment
+
+free wifi of DICT
+
+show lessons
+
+framework
+mathematic education
+
+change policies IMs
+
+Strategies -> performance scores of studs. show pretes post test and essays -> improve intended learning outcomes.
+
+
+
+analyze
+dependent variable for performance: coding, content knowledge, output in r and rstudio, experiences.
+
+focus on linear regression and correlation
+
+outputs in r and rstudio can be diff measures.
+
+
+pre knowledge of students..
+
+importance of coding skills.. literature
+
+self testing, independent learning..
+
+model.. 4th objective..
+
+modules, package.. teaching procedure..
+
+validity of modules..
+
+Define topics in SCOPE AND DELIMINATION
+
+include syllabus of MMW..
+
+breakdown the skills considered in data management: analysis, interpretation.
+
+personal experiences should not be in the rationale. definition of terms.
+
+literature is not included
