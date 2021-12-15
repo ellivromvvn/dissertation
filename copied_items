@@ -140,3 +140,7 @@ In their discussion of their pilot study with R to undergraduate and graduate st
 Interestingly, with these innovations and variations in teaching R with students, the results show that “students served to encourage greater implementation of the use of free software, namely R, in the pedagogical practices of teachers and in their daily life”. Not only that, the way the authors present the online module through Facebook environment “contributed to promoting greater student participation in the learning process, one that is more focused not only on their autonomous work, but also on the development of their abilities to work as a team”.
 
 Hence, @gomes18 conclude that teaching with R could be a blessing if the right buttons of activities and even academic environments blend well. This is true as they conclude that “starting this process even at an early stage in school will most certainly contribute not only to the improvement of teaching methodologies, but also to the promotion of statistical literacy among students and teachers”.
+
+## Treatment of Data
+
+Descriptive statistics will be computed for the profile variables. For the first hypothesis, independent samples *t*-test on pre-test mean scores on both groups will be computed. For the second and third hypotheses, one way analysis of covariance (ANCOVA) will be computed, with the two post-test scores as the dependent variable, grouping variable as the independent variable and pre-test scores as the covariate. All computations will be done in RStudio.
