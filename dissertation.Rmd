@@ -11,7 +11,7 @@ csl: apa.csl
 
 ## Rationale
 
-The advancement brought about by the 4th industrial revolution led to fast and powerful computers that are no longer expensive. This development led to big data and thus advances in the field of statistics, machine learning and deep learning paving way to data science as a field. Moreover, computing has become an essential part
+The advancement brought about by the 4th industrial revolution led to fast and powerful computers that are no longer expensive. This development led to big data and thus advances in the field of statistics, machine learning and deep learning paving way to data science as a field. Moreover, computing has become an essential part of
 
 The practice of statistics is computational; statistical computing software are mainly used. Currently, at the b 4th industrial revolution brought big data, the advancement of machine learning and deep learn
 
