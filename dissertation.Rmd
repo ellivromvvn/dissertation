@@ -27,7 +27,7 @@ Faced with the pandemic brought about by COVID19,  the use of software in teachi
 
 In this context, in an attempt to improve statistics education and the practice of statistics in NVSU, to provide a powerful tool to teach and practice statistics to future statistics teachers in the province, and to provide an alternative way of teaching statistics during the implementation of flexible learning in times of pandemic, the researcher will introduce the use of R with RStudio to the BSEd Mathematics and BS Mathematics students in their Data Management class. Then the researcher will see if there is a significant change in their performance in the class. Finally, the researcher will identify themes and categories that will anchor the study to the bigger context of statistics education and thereby serve as departure points as basis for policies that will lead to curriculum, instruction and assessment development with respect to statistics education in NVSU specially with flexible learning.
 
-## Statement of the Problem
+## Statement of the Problem/Objectives
 
 To adapt to the changes in technology brought about by the 4th industrial revolution, to be abreast with the global community when it comes to statistics education, and to address the pedagogical challenges brought about by flexible learning in teaching statistics in times of pandemic, RStudio as a statistical computing tool in learning data management will be introduced to BSEd Mathematics and BS Mathematics students of NVSU. The researcher will then answer the following questions after gathering profile variables, employing a two group counterbalanced measures design, and letting the students share their stories and narratives in using R and SPSS through essay:
 
@@ -45,7 +45,7 @@ To adapt to the changes in technology brought about by the 4th industrial revolu
 
 7. What are the categories and themes on the narratives of the participants in using R and SPSS?
 
-## Hypotheses
+## Statement of Null Hypotheses
 
 Is there a significant difference in the pre-test scores among the respondents in both groups?
 
@@ -65,6 +65,8 @@ Is there significant difference in the second post-test scores among the respond
 
 >H~a~: There is significant difference in the second post-test scores among the respondents in both groups based on their pre-test scores.
 
+## Theoretical Framework
+
 ## Conceptual and Analytical Framework
 
 Using RStudio in teaching statistics with flexible learning, four concepts were identified.
@@ -80,10 +82,6 @@ Using RStudio in teaching statistics with flexible learning, four concepts were 
 Statistics education is currently under flexible learning. In this study, technology will be integrated to statistics education. Figure 1 shows the analytical framework of the study. The analytical framework is input process output. The interaction among statistics education, flexible learning, and technology will be the input. Then through quantitative and qualitative methods, policies on curriculum, instruction, and assessment development will be the output.
 
 ![**Figure 1.** Analytical Framework](AF.png)
-
-## Definition of Terms
-
-- **statistics education** - refers to the curriculum, instruction, and assessment in the teaching and learning of statistics.
 
 # RESEARCH METHODOLOGY
 
