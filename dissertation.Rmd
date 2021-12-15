@@ -9,39 +9,7 @@ csl: apa.csl
 ---
 # INTRODUCTION
 
-## The Problem and its Background
-
-The covid 19 pandemic.
-
-Flexible learning.
-
-R's role in flexible learning.
-
-The effects of using R [@R] and RStudio [@RStudio] on pre-service teachers' coding and data management and on instructional materials design will be investigated in this paper.
-
-The entire world has been devastated by the COVID 19 pandemic. Since it started, we have been in a public health emergency and everyone has been concerned with public safety. Measures taken by the government have drastically changed the normal state of practice in all offices. In the education sector, face to face classroom set up is no longer being practiced. The Commission on Higher Education implemented flexible learning to cope up with this situation [@CMO_04_20]. However, instruction through flexible learning is very challenging. The Commission on Higher Education stated in the guidelines that "the main objective should be to provide learners with the most flexibility on the learning content, schedules, access, and innovative assessment, making use of digital and non-digital tools" (p. 3). Teachers need to be creative in able to device new ways to be effective in implementing flexible learning.
-
-"R is a language and environment for statistical computing and graphics" [@R]. It is open source and can be used in a wide array of statistical (linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, etc.) and graphical techniques that can be extended with the use packages. Currently there are 16,732 packages available for various statistical computations and other tasks. According to the R Core Team; "one of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed". R has recently gained popularity in universities and research institutes and is currently 8th in the August, 2020 TIOBE's index for programming language popularity from being 20th last year mainly due to its being open source and its use in the COVID 19 research and analytics [@whitney20]. Using R is a practical application of coding and it is an essential tool for data management. It is also a great tool for instructional materials design in mathematics subjects.
-
-On the other hand, RStudio has made the use or R easy, manageable, and and even more extensible. "RStudio is an integrated development environment (IDE) for R" [@RStudio]. It is also open source. RStudio includes a console, syntax-highlighting editor for direct code execution, as well as tools for plotting, history, debugging and workspace management. Furthermore, RStudio has integrated support for version control systems like Git [@chacon20] that can lead to the use of GitHub [@github]; a website that host code repositories for collaboration. Recently, RStudio cloud [@rstudiocloud] was created to support the use of RStudio directly from the web browser without the hardware hassles. It is designed for instructors and students for the purpose of teaching and learning data science with RStudio. 
-
-R and RStudio presents a very powerful and economical tool to teach and learn mathematics. It is a potential tool to teach Mathematics in the Modern World; the only mathematics subject taught in all courses being a general education subject. Mathematics in the Modern world is a subject that gives all college students the foundation for the application of mathematics in their daily lives [@MMW]. In the sample syllabus, learning outcomes are classified into three; knowledge, skills, and values. Under knowledge: 1) Discuss and argue about the nature of mathematics, what it is, how it is expressed, represented and used, 2) Use different types of reasoning to justify statements and arguments made about mathematics and mathematical concepts, 3) Discuss the language and symbols of mathematics. Under skills: 1) Use a variety of statistical tools to process and manage numerical data, 2) Analyze codes and coding schemes used for identification, privacy, and security purposes, 3) use mathematics in other areas such as finance, voting, health and medicine, business, environment, arts and design, and recreation. For values: 1) Appreciate the nature and uses of mathematics in everyday life, 2) Affirm honesty and integrity in the application of mathematics to various human endeavors. However, It is quite surprising that the popularity of R and RStudio among academicians in the province is very minimal.
-
-The teaching of data management can really be challenging in this situation; implementing flexible learning. Although Data Management is just a part of the general education subject Mathematics in the Modern World, it is very crucial to make the students' learning experience meaningful since data management is very useful in a world where data is really abundant. The use of software in this regard will introduce the student to powerful tools that will really help them give meaning to data that they encounter in their jobs and daily lives. To reiterate this, the text book used in  Mathematics in the Modern World at Nueva Vizcaya State University (NVSU) states that going through Data Management, students should be able to:
-
-1. Use a variety of statistical tools to process and manage numerical data;
-
-2. Use the methods of linear regression and correlation to predict the value of a variable given certain conditions; and
-
-3. Advocate the use of statistical data in making important decisions [@reyes18, p. 83].
-
-The next section will highlight the necessity of this study in a bigger context.
-
 ## Rationale
-
-
-
-
 
 The advancement brought about by the 4th industrial revolution led to fast and powerful computers that are no longer expensive. This development led to big data and thus advances in the field of statistics, machine learning and deep learning paving way to data science as a field. Moreover, computing has become an essential part
 
@@ -124,8 +92,6 @@ Statistics education is currently under flexible learning. In this study, techno
 ## Definition of Terms
 
 - **statistics education** - refers to the curriculum, instruction, and assessment in the teaching and learning of statistics.
-
-
 
 # RESEARCH METHODOLOGY
 
