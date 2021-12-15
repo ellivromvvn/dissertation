@@ -7,7 +7,7 @@ output:
 bibliography: biblio.bib
 csl: apa.csl
 ---
-# INTRODUCTION
+# CHAPTER I - INTRODUCTION
 
 ## Rationale
 
@@ -83,7 +83,7 @@ Statistics education is currently under flexible learning. In this study, techno
 
 ![**Figure 1.** Analytical Framework](AF.png)
 
-# RESEARCH METHODOLOGY
+# CHAPTER II - METHODOLOGY
 
 ## Research Design
 
@@ -101,7 +101,7 @@ The research will be conducted in Nueva Vizcaya State University at Bayombong, N
 
 The respondents of the study are BSEd Mathematics students and BS Mathematics students of NVSU taking Data Management class in their Mathematics in the Modern World subject during the first semester of the the school year 2020-2021.
 
-## Instruments
+## Instrumentation
 
 The research instrument will be a survey questionnaire for the profile variables.
 
@@ -109,8 +109,6 @@ The research instrument will be a survey questionnaire for the profile variables
 
 Data for test scores will be gathered by conducting a pre-test and two post-tests. Narratives and experiences on using RStudio and SPSS will be gathered through an essay question to be answered by the respondents. The essay question will also come with the survey questionnaire for the profile variables.
 
-## Treatment of Data
-
-Descriptive statistics will be computed for the profile variables. For the first hypothesis, independent samples *t*-test on pre-test mean scores on both groups will be computed. For the second and third hypotheses, one way analysis of covariance (ANCOVA) will be computed, with the two post-test scores as the dependent variable, grouping variable as the independent variable and pre-test scores as the covariate. All computations will be done in RStudio.
+## Ethical Considerations
 
 # References
